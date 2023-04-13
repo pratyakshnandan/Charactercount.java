@@ -11,3 +11,4 @@ public class removespaces {
         System.out.println("Original string: " + inputString);
         System.out.println("New string without spaces: " + newString);
     }
+}
